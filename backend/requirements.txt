@@ -1,0 +1,14 @@
+# scheduler/backend/requirements.txt
+
+Flask
+Flask-CORS
+PyPDF2 # For reading PDF files
+# You will add the Grok AI library here when you integrate it:
+groq # Uncommented Grok AI library
+# Other potential NLP/ML libraries if your solution requires them:
+scikit-learn # Uncommented
+numpy # Uncommented
+pandas # Uncommented
+NLTK # Uncommented
+transformers # Uncommented
+python-dotenv

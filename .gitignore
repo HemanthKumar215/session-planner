@@ -1,0 +1,18 @@
+  
+# Node.js and Frontend specific ignores
+/frontend/node_modules/
+/frontend/build/ # If you ever build the React app
+/frontend/.env # Frontend .env (if you add one)
+
+# Python and Backend specific ignores
+/backend/__pycache__/
+/backend/.venv/ # If you used a virtual environment other than conda base
+/backend/.env # IMPORTANT: Your backend .env with API key!
+/backend/data/pyqs/ # If you want to include your PYQ files on GitHub, REMOVE this line.
+/backend/data/textbooks/ # If you want to include your textbook files on GitHub, REMOVE this line.
+/backend/models/ # Ignore saved model files if they are very large or specific to your local setup
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
+.vscode/ # VS Code settings specific to your machine (optional)

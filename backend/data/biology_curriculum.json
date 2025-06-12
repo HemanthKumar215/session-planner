@@ -1,0 +1,125 @@
+{
+  "biology": {
+    "Sexual Reproduction in Flowering Plants": [
+      "Flower Structure",
+      "Development of Male and Female Gametophytes",
+      "Pollination: Types, Agencies, and Examples",
+      "Outbreeding Devices",
+      "Pollen-Pistil Interaction",
+      "Double Fertilization",
+      "Post-Fertilization Events: Development of Endosperm, Embryo, Seed, and Fruit",
+      "Special Modes: Apomixis, Parthenocarpy, Polyembryony"
+    ],
+    "Human Reproduction": [
+      "Male Reproductive System",
+      "Female Reproductive System",
+      "Gametogenesis: Spermatogenesis and Oogenesis",
+      "Menstrual Cycle",
+      "Fertilization and Implantation",
+      "Pregnancy and Embryonic Development",
+      "Parturition and Lactation"
+    ],
+    "Reproductive Health": [
+      "Reproductive Health: Problems and Strategies",
+      "Population Explosion and Birth Control",
+      "Medical Termination of Pregnancy (MTP)",
+      "Sexually Transmitted Diseases (STDs)",
+      "Infertility and Assisted Reproductive Technologies (ART)"
+    ],
+    "Principles of Inheritance and Variation": [
+      "Mendel\u2019s Laws of Inheritance",
+      "Inheritance of One Gene (Monohybrid Cross)",
+      "Inheritance of Two Genes (Dihybrid Cross)",
+      "Deviations from Mendelism: Incomplete Dominance, Co-dominance, Multiple Alleles, Polygenic Inheritance",
+      "Chromosomal Theory of Inheritance",
+      "Linkage and Recombination",
+      "Sex Determination in Humans, Birds, and Honey Bees",
+      "Mutation",
+      "Genetic Disorders: Pedigree Analysis, Mendelian Disorders (e.g., Haemophilia, Sickle-cell Anaemia), Chromosomal Disorders (e.g., Down\u2019s Syndrome, Klinefelter\u2019s Syndrome)"
+    ],
+    "Molecular Basis of Inheritance": [
+      "The DNA: Structure, Replication",
+      "The Search for Genetic Material: Experiments (Griffith, Avery, Hershey-Chase)",
+      "RNA World",
+      "Transcription",
+      "Genetic Code",
+      "Translation",
+      "Regulation of Gene Expression: Lac Operon",
+      "Human Genome Project",
+      "DNA Fingerprinting"
+    ],
+    "Evolution": [
+      "Origin of Life",
+      "Evidences for Evolution: Paleontology, Comparative Anatomy, Embryology, Molecular Evidence",
+      "Adaptive Radiation",
+      "Biological Evolution: Lamarckism, Darwinism, Natural Selection",
+      "Mechanism of Evolution: Variation, Natural Selection, Genetic Drift",
+      "Hardy-Weinberg Principle",
+      "Brief Account of Evolution: Human Evolution"
+    ],
+    "Human Health and Disease": [
+      "Common Diseases in Humans: Typhoid, Pneumonia, Malaria, Amoebiasis",
+      "Immunity: Innate and Acquired, Active and Passive",
+      "Immune System: Lymphoid Organs, Antigen-Antibody Interaction",
+      "AIDS",
+      "Cancer",
+      "Drugs and Alcohol Abuse"
+    ],
+    "Microbes in Human Welfare": [
+      "Microbes in Household Products",
+      "Microbes in Industrial Products: Antibiotics, Enzymes, Bioactive Molecules",
+      "Microbes in Sewage Treatment",
+      "Microbes in Production of Biogas",
+      "Microbes as Biocontrol Agents",
+      "Microbes as Biofertilizers"
+    ],
+    "Biotechnology: Principles and Processes": [
+      "Principles of Biotechnology",
+      "Tools of Recombinant DNA Technology: Restriction Enzymes, Cloning Vectors, Competent Host",
+      "Processes of Recombinant DNA Technology: Isolation of DNA, Amplification, Insertion, Expression",
+      "Bioreactors",
+      "Downstream Processing"
+    ],
+    "Biotechnology and Its Applications": [
+      "Applications in Agriculture: Genetically Modified Organisms (GMOs), Bt Crops",
+      "Applications in Medicine: Genetically Engineered Insulin, Gene Therapy, Molecular Diagnosis",
+      "Transgenic Animals",
+      "Ethical Issues in Biotechnology",
+      "Biopatent and Biopiracy"
+    ],
+    "Organisms and Populations": [
+      "Organisms and Their Environment: Abiotic Factors, Responses to Abiotic Factors",
+      "Population Attributes: Growth, Birth Rate, Death Rate, Age Distribution",
+      "Population Growth Models: Exponential and Logistic Growth",
+      "Population Interactions: Mutualism, Competition, Predation, Parasitism, Commensalism"
+    ],
+    "Ecosystem": [
+      "Ecosystem: Structure and Function",
+      "Productivity: Primary and Secondary",
+      "Decomposition",
+      "Energy Flow",
+      "Ecological Pyramids",
+      "Ecological Succession",
+      "Nutrient Cycling: Carbon and Phosphorus Cycles",
+      "Ecosystem Services"
+    ],
+    "Biodiversity and Conservation": [
+      "Biodiversity: Levels (Genetic, Species, Ecological)",
+      "Patterns of Biodiversity: Latitudinal Gradients, Species-Area Relationship",
+      "Importance of Biodiversity",
+      "Loss of Biodiversity",
+      "Biodiversity Conservation: In-situ and Ex-situ Conservation"
+    ],
+    "Environmental Issues": [
+      "Air Pollution and Its Control",
+      "Water Pollution and Its Control",
+      "Solid Wastes",
+      "Agrochemicals and Their Effects",
+      "Radioactive Wastes",
+      "Greenhouse Effect and Global Warming",
+      "Ozone Depletion",
+      "Deforestation",
+      "Case Studies: Integrated Waste Water Treatment"
+    ]
+  }
+}

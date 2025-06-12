@@ -1,0 +1,43 @@
+/* Custom Styles for Smart Study Planner */
+
+/* Global styles for the body */
+body {
+    /* Tailwind's bg-gray-900 */
+    background-color: #1a202c;
+    /* Tailwind's text-gray-100 */
+    color: #e2e8f0;
+    /* Font family from Google Fonts */
+    font-family: 'Inter', sans-serif;
+    /* Flexbox for centering content */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh; /* Ensure it takes at least full viewport height */
+    padding: 1.5rem; /* Equivalent to Tailwind's p-6 */
+}
+
+/* Custom scrollbar for better aesthetics in dark theme */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #333; /* Color of the scrollbar track */
+    border-radius: 10px; /* Rounded corners for the track */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #555; /* Color of the scrollbar thumb */
+    border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #777; /* Color of the scrollbar thumb on hover */
+}
+
+/* For Firefox compatibility */
+.custom-scrollbar {
+    scrollbar-width: thin; /* "auto" or "thin" */
+    scrollbar-color: #555 #333; /* thumb color track color */
+}
+
